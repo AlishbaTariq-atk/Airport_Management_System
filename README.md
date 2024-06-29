@@ -7,10 +7,9 @@ Welcome to the Airport Management System repository. This project is a comprehen
 1. [Features](#features)
 2. [Class Diagram](#class-diagram)
 3. [Technologies Used](#technologies-used)
-6. [Usage](#usage)
-7. [Contribution](#contribution)
-8. [License](#license)
-9. [Contact](#contact)
+4. [Usage](#usage)
+5. [Contribution](#contribution)
+6. [Contact](#contact)
 
 ## Features
 
