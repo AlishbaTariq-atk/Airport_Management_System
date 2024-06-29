@@ -21,7 +21,7 @@ Welcome to the Airport Management System repository. This project is a comprehen
 
 ## Class Diagram
 
-![Class Diagram](C:\Users\alish\OneDrive\Desktop\Uni\BS_SE\SEM_2\OOP_Theory\SEM-Project (OOP)\OOP_Project_22P-9112-Alishba Tariq_BSE 2-A\Final_Class Diagram.jpg)
+![Class Diagram](Final_Class Diagram.jpg)
 
 ## Technologies Used
 
