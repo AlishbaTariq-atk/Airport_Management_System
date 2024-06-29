@@ -21,7 +21,8 @@ Welcome to the Airport Management System repository. This project is a comprehen
 
 ## Class Diagram
 
-![Class Diagram](Final_Class Diagram.jpg)
+![Final_Class_Diagram ](https://github.com/AlishbaTariq-atk/Airport_Management_System/assets/145316171/0ecc958d-79f0-4e8a-b437-83277c97d07e)
+
 
 ## Technologies Used
 
